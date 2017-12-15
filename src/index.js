@@ -6,6 +6,11 @@ const VuePopmotion = {
 				get() {
 					return popmotion
 				}
+			},
+			pm: {
+				get() {
+					return popmotion
+				}
 			}
 		})
 		Vue.mixin({
