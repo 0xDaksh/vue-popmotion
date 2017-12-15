@@ -6,7 +6,7 @@ A small wrapper for integrating popmotion to Vuejs
 ```bash
 npm install --save lodash vue-popmotion
 #or
-yarn add moon-lodash 
+yarn add vue-popmotion 
 ```
 
 And in your entry file:

@@ -1,6 +1,6 @@
 {
   "name": "vue-popmotion",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A tiny PopMotion wrapper for Vue.",
   "main": "dist/vue-popmotion.min.js",
   "scripts": {
