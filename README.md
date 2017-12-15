@@ -4,7 +4,7 @@ A small wrapper for integrating popmotion to Vuejs
 ## How to install:
 ### CommonJS:
 ```bash
-npm install --save lodash vue-popmotion
+npm install --save popmotion vue-popmotion
 #or
 yarn add vue-popmotion 
 ```
